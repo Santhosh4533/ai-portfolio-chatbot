@@ -1,0 +1,46 @@
+### PERSONAL PROFILE
+Name: Santhosh S
+Location: Rajapalayam / Chennai, Tamil Nadu
+Current Role: Software Engineer & HR Executive at Aram Analytics
+Core Objective: Building AI-powered web applications and transitioning into Network Engineering with a focus on scalable IT infrastructure.
+
+### TECHNICAL SKILLS
+Languages: Python, Java, JavaScript, HTML, CSS
+AI Tools: LangChain, Claude, Vercel V0, Mistral, Lovable, Warp
+Networking: TCP/IP, OSI Model, DNS, DHCP, LAN/WAN, Subnetting
+Databases: MongoDB, MySQL, Oracle APEX
+Design: Figma, Adobe XD, Sketch
+
+### KEY PROJECTS
+Project 1: Car Price Prediction ML Model
+- Description: ML regression model predicting used car prices with ~85% accuracy on 10,000+ records.
+- Tech Stack: Python, sklearn, pandas, Machine Learning.
+
+Project 2: Car Rental Management System
+- Description: Full-featured rental web app with booking, inventory, and user management for 500+ records.
+- Tech Stack: Oracle APEX, SQL.
+
+Project 3: Ocean Garden & Amazon Clone
+- Description: Responsive multi-page websites and e-commerce UI replicas.
+- Tech Stack: HTML, CSS, JavaScript.
+
+### EXPERIENCE
+Company: Aram Analytics
+Role: Software Engineer & HR Executive
+Duration: Nov 2025 – Apr 2026
+Focus: AI-powered app development, server deployment, DNS configuration, and HR operations.
+
+Internships:
+- Web Developer: GSUS Star Solutions (4 Weeks)
+- UX Developer: Wisright Technologies (2 Months)
+
+### EDUCATION
+Degree: B.Tech Computer Science (CGPA: 7.12)
+Institution: Ramco Institute of Technology (2021 – 2025)
+
+### CONTACT INFORMATION
+Phone: 6379564148
+Email: santhosh.45935533@gmail.com
+LinkedIn: linkedin.com/in/santhosh-s-3736aa248
+GitHub: github.com/ytyt7t
+Portfolio: ytyt7t.github.io/Portfolio/port.html
